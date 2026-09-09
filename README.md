@@ -1,5 +1,5 @@
 # CLI-Browse
-A minimal CLI browser.
+An Open source minimal CLI browser.
 Features:
 No JavaScript ❌
 No CSS ❌
