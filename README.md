@@ -5,3 +5,4 @@ No JavaScript ❌
 No CSS ❌
 No Tracking ❌
 Just private ✅
+(Mac only)
