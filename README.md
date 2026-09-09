@@ -1,8 +1,8 @@
 # CLI-Browse
-A private CLI browser.
+A minimal CLI browser.
 Features:
 No JavaScript ❌
 No CSS ❌
 No Tracking ❌
-Just private ✅
+Just normal ✅
 (Mac only because linux users have links and windows users... well, we don't talk about windows)
